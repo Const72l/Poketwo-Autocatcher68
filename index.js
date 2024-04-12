@@ -304,4 +304,4 @@ client.on('messageCreate', async message => {
         }
     }
 })
-client.login("MTlyODAwNzE1NDY5MTA4NDM3MA.GOisDu.HzwioV4Rt2k4Eetr_p13l-W1g74-SjHqO6_4uE") //use process.env.TOKEN if you are using it in repl.it
+client.login("MTIyNzkzMTE2MTYwMzQ3MzQxOQ.GikJ7t.36_G_cupS3fLqhpvNVu6IYpktI0xNYab6U4VRA") //use process.env.TOKEN if you are using it in repl.it
